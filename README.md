@@ -1,2 +1,40 @@
-# cpp-dsa-learning-roadmap
-A structured, topic-wise collection of my Data Structures &amp; Algorithms learning using C++.   Contains complete implementations from DSA-1 and DSA-2 with clean, organized folders for quick revision.
+# 📘 C++ DSA Learning Roadmap
+
+A structured, topic-wise collection of my Data Structures & Algorithms learning using C++.  
+Contains complete implementations from DSA-1 and DSA-2 with organized folders for fast revision and practice.
+
+This repository contains my overall learning journey of Data Structures & Algorithms from **DSA-1** and **DSA-2** courses.  
+All topics are implemented using **C++**, organized clearly for revision, practice, and interview preparation.  
+The goal of this repository is to keep everything structured, easy to navigate, and helpful for future study.  
+
+---
+
+## 📂 Repository Structure
+
+```text
+DSA-Learning/
+│
+├── DSA-1/
+│   ├── Linked_List/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Trees/
+│   ├── Graphs/
+│   ├── Searching_Algorithms/
+│   ├── Sorting_Algorithms/
+│   ├── Practice/
+│
+├── DSA-2/
+│   ├── IntroductionToCPP/
+│   ├── Divide_and_Conquer/
+│   ├── Recursion/
+│   ├── Greedy/
+│   ├── Dynamic_Programming/
+│   ├── Disjoint_Set/
+│   ├── Minimum_Spanning_Tree/
+│   ├── Vector_Map/
+│   ├── Assignment-1/
+│   ├── Assignment-2/
+│
+├── .vscode/
+
